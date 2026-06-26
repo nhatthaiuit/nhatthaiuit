@@ -49,11 +49,11 @@ A full-stack web application for badminton court booking and management.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatthaiuit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhatthaiuit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=nhatthaiuit&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatthaiuit&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=nhatthaiuit&theme=tokyonight&hide_border=false&layout=compact&count_private=true" />
 </p>
 
 ---
@@ -67,4 +67,4 @@ A full-stack web application for badminton court booking and management.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nhatthaiuit&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
 </p>
-```
+
