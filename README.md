@@ -36,10 +36,10 @@ A full-stack web application for badminton court booking and management.
 
 <p align="center">
   <a href="https://github.com/nhatthaiuit/Badminton_Court_Management_FE">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_FE&theme=tokyonight" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_FE&theme=tokyonight&v=2" />
   </a>
   <a href="https://github.com/nhatthaiuit/Badminton_Court_Management_BE">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_BE&theme=tokyonight" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_BE&theme=tokyonight&v=2" />
   </a>
 </p>
 
