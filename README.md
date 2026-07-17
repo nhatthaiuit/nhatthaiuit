@@ -49,7 +49,7 @@ A full-stack web application for badminton court booking and management.
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nhatthaiuit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatthaiuit&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatthaiuit&theme=tokyonight&hide_border=false&v=1" />
   <br/>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nhatthaiuit&theme=tokyonight&hide_border=false&layout=compact&count_private=true" />
 </p>
