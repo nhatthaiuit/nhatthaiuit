@@ -36,24 +36,22 @@ A full-stack web application for badminton court booking and management.
 
 <p align="center">
   <a href="https://github.com/nhatthaiuit/Badminton_Court_Management_FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_FE&theme=tokyonight" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_FE&theme=tokyonight" />
   </a>
-
   <a href="https://github.com/nhatthaiuit/Badminton_Court_Management_BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_BE&theme=tokyonight" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=Badminton_Court_Management_BE&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatthaiuit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nhatthaiuit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=nhatthaiuit&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatthaiuit&theme=tokyonight&hide_border=false&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nhatthaiuit&theme=tokyonight&hide_border=false&layout=compact&count_private=true" />
 </p>
 
 ---
