@@ -43,6 +43,19 @@ A full-stack web application for badminton court booking and management.
   </a>
 </p>
 
+### 🛍️ Fashion Shop E-Commerce
+
+A robust full-stack e-commerce platform with dynamic stock management and an advanced React-Admin dashboard.
+
+<p align="center">
+  <a href="https://github.com/nhatthaiuit/fashion-shop-fe">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=fashion-shop-fe&theme=tokyonight&v=2" />
+  </a>
+  <a href="https://github.com/nhatthaiuit/fashion-shop-be">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nhatthaiuit&repo=fashion-shop-be&theme=tokyonight&v=2" />
+  </a>
+</p>
+
 ---
 
 # 📊 GitHub Stats
